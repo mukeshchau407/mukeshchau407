@@ -2,7 +2,7 @@
 🔭 I’m currently working on college project and so on.<br>🌱 I’m currently learning Python & JavaScript<br>💬 Ask me about HTML, CSS, JS, PHP, C, PYTHON<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love playing football but hate being a substitute..
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paxton_boom) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chymukesh5@gmail.com) 
 
 # 💻 Tech Stack:
