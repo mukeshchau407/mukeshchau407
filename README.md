@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on college project and so on.<br>🌱 I’m currently learning Python & JavaScript<br>💬 Ask me about HTML, CSS, JS, PHP, C, PYTHON<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love playing football but hate being a substitute..
+🔭 I’m currently working on college project and so on.<br>🌱 I’m currently learning Python & JavaScript<br>💬 Ask me about HTML, CSS, JS, PHP, C, PYTHON<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love playing football but hate being a substitute...
 
 
 # 🌐 Socials:
