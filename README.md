@@ -1,5 +1,5 @@
 # Hi, 👋 I'm Mukesh Kumar Chaudhary
-🔭 Currently working on college project and so on.<br>🌱 Learning Python & JavaScript<br>💬 Ask me about HTML, CSS, JS, PHP, C, PYTHON<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love playing football but hate being a substitute...
+🔭 Currently working on college project and so on.<br>🌱 Learning Python & JavaScript<br>💬 Ask me about HTML, CSS, JS, PHP, C, REACTJS, PYTHON<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love playing football but hate being a substitute...
 
 
 # 🌐 Socials:
