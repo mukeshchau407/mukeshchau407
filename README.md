@@ -31,9 +31,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshchau407&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshchau407&layout=compact&theme=radical)  
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshchau407&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshchau407&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mukeshchau407&theme=radical&hide_border=true)
 
