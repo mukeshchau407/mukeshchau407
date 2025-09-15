@@ -14,19 +14,19 @@
 ---
 
 ## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/-?style=for-the-badge&logo=c&logoColor=white&label=C)
+![C++](https://img.shields.io/badge/-?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=C++)
+![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=white&label=Java)
+![JavaScript](https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=F7DF1E&label=JavaScript)
+![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&label=Python)  
+![React](https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB&label=React)
+![Node.js](https://img.shields.io/badge/-?style=for-the-badge&logo=node.js&logoColor=white&label=Node.js)
+![Express.js](https://img.shields.io/badge/-?style=for-the-badge&logo=express&logoColor=white&label=Express)
+![MongoDB](https://img.shields.io/badge/-?style=for-the-badge&logo=mongodb&logoColor=white&label=MongoDB)  
+![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&label=Git)
+![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white&label=GitHub)
+![VS Code](https://img.shields.io/badge/-?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=VS%20Code)
+![Linux](https://img.shields.io/badge/-?style=for-the-badge&logo=linux&logoColor=black&label=Linux)
 
 ---
 
@@ -35,7 +35,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshchau407&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mukeshchau407&theme=radical&hide_border=true) 
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mukeshchau407&theme=radical&hide_border=true)
 
 ---
 
