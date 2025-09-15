@@ -1,13 +1,45 @@
-# Hi, 👋 I'm Mukesh Kumar Chaudhary
-🔭 Currently working on college project and so on.<br>🌱 Learning Python & JavaScript<br>💬 Ask me about HTML, CSS, JS, PHP, C, REACTJS, PYTHON<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love playing football but hate being a substitute...
+# Hi there, I'm Mukesh Kumar Chaudhary 👋
 
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paxton_boom) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chymukesh5@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+💻 **BCA Student at Tribhuvan University** | 🌱 Exploring AI/ML | 🚀 MERN Stack Developer  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mukeshchau407&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
+- 🎓 Currently studying **Bachelor in Computer Applications (BCA)** at Tribhuvan University  
+- 🌐 Building a **Virtual Assistant AI** (MERN Stack)  
+- 🔧 Passionate about **Data Structures & Algorithms**  
+- 🤖 Learning **Artificial Intelligence & Machine Learning**  
+- ⚡ Fun fact: I enjoy debugging more than coding sometimes 😅  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: C, C++, JavaScript, Python  
+- **Web Development**: React.js, Node.js, Express.js, MongoDB  
+- **Tools & Platforms**: Git, GitHub, VS Code, Linux (Kali & Ubuntu)  
+- **Other Interests**: AI/ML, Open Source  
+
+---
+
+## 📌 Featured Projects
+- 📚 [College Management System](#) – MERN stack project for handling academic data  
+- 🌐 [Portfolio Website](#) – My personal portfolio built with React & TailwindCSS  
+- 🛒 [E-commerce App](#) – Full-stack project with authentication & payments  
+
+---
+
+## 📈 GitHub Stats
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshchau407&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshchau407&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect With Me
+- 📧 Email: chymukesh5@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/mukeshchaud407/](#)  
+- 🌐 Portfolio: [https://mukeshchaud.vercel.app/](#)  
+
+---
+
+⭐️ From [Mukesh Kumar Chaudhary](https://github.com/mukeshchau407/)
